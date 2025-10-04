@@ -178,13 +178,3 @@ Jarvis-AI/
 ## 🤝 Contributing
 
 We welcome community contributions!
-
-```bash
-# Create a new branch
-git checkout -b feature/YourFeatureName
-
-# Commit your changes
-git commit -m "Add Your Feature"
-
-# Push and create a Pull Request
-git push origin feature/YourFeatureName
