@@ -188,10 +188,3 @@ git commit -m "Add Your Feature"
 
 # Push and create a Pull Request
 git push origin feature/YourFeatureName
-```
-
-Before submitting a PR, please make sure:
-
-* Code is well-commented and formatted
-* New features are tested locally
-
